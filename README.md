@@ -13,5 +13,6 @@ Pizza Order System,
 Rock Paper Scissors Game, 
 Rollercoaster Ticket System, 
 Treasure Island Project, 
+Guess The Number
 
 Stay tuned for more projects as I progress through intermediate and advanced levels. Feel free to explore, contribute, and suggest improvements!
