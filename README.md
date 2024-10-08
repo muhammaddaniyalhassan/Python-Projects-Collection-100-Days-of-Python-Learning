@@ -15,4 +15,8 @@ Rollercoaster Ticket System,
 Treasure Island Project, 
 Guess The Number
 
+**Current Intermediate Level Projects:**
+Coffee Machine,
+Quiz Game
+
 Stay tuned for more projects as I progress through intermediate and advanced levels. Feel free to explore, contribute, and suggest improvements!
